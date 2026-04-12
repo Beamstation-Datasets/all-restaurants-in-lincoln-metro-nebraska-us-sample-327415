@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Multi-city restaurant dataset for Lincoln (Metro), Nebraska, covering Lincoln. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Lincoln (Metro), Nebraska, US",
+  "export_job_id": "22669cd9-8a08-421f-a1ba-46ce1ff019b2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 327415,
+  "location_name": "Lincoln, NE",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-lincoln-metro-nebraska-us-sample-327415",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/327415/beamstation_327415_restaurants-us-lincolnne_SAMPLE_DIST.csv",
+  "sample_pct": 8.82,
+  "sample_records": 3,
+  "sample_sha256": "8629c8d8da0418aac6aace76a50114f27533291c5c9c3298721da91b5d8f793d",
+  "sample_size_bytes": 26538,
+  "total_records": 34,
+  "updated_at": "2026-04-07T09:50:59.841075+00:00"
+}
