@@ -1,0 +1,12 @@
+{
+  "export_job_id": "22669cd9-8a08-421f-a1ba-46ce1ff019b2",
+  "id_short": 327415,
+  "published_at": "2026-04-12T07:04:09Z",
+  "repo_name": "all-restaurants-in-lincoln-metro-nebraska-us-sample-327415",
+  "sample_asset_name": "beamstation_327415_restaurants-us-lincolnne_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/327415/beamstation_327415_restaurants-us-lincolnne_SAMPLE_DIST.csv",
+  "sample_records": 3,
+  "sample_sha256": "8629c8d8da0418aac6aace76a50114f27533291c5c9c3298721da91b5d8f793d",
+  "sample_size_bytes": 26538,
+  "total_records": 34
+}
