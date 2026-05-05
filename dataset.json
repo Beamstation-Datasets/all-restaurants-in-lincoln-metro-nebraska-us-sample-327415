@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Multi-city restaurant dataset for Lincoln (Metro), Nebraska, covering Lincoln. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Lincoln (Metro), Nebraska, US",
-  "export_job_id": "b766ada1-a210-45cc-82aa-f92426a049b4",
+  "export_job_id": "36ea92e1-4bc8-423c-9771-5186be3b8c4f",
   "github_org": "Beamstation-Datasets",
   "id_short": 327415,
   "location_name": "Lincoln, NE",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-lincoln-metro-nebraska-us-sample-327415",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/327415/beamstation_327415_restaurants-us-lincolnne_SAMPLE_DIST.csv",
-  "sample_pct": 8.82,
+  "sample_pct": 7.69,
   "sample_records": 3,
-  "sample_sha256": "4c62880be6c4b10818c5c01ad598d8a23535c942fd3406c29b08fb8f4cba4d72",
-  "sample_size_bytes": 24428,
-  "total_records": 34,
-  "updated_at": "2026-04-14T09:51:37.951005+00:00"
+  "sample_sha256": "e1b5b5cc4a7d15711722a7b06240546a6bdc15465a32b198de0f2a3038456241",
+  "sample_size_bytes": 26435,
+  "total_records": 39,
+  "updated_at": "2026-05-05T10:03:18.244382+00:00"
 }
