@@ -9,9 +9,9 @@
 | Dataset ID | `327415` |
 | Location | Lincoln, NE |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-14T09:51:37.951005+00:00 |
+| Full dataset size | 39 records |
+| Free sample size | 3 records (7.69%) |
+| Last export | 2026-05-05T10:03:18.244382+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lincoln-metro-nebraska-us-sample-327415/releases/download/sample-latest/beamstation_327415_restaurants-us-lincolnne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
